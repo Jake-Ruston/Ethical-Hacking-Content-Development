@@ -2,6 +2,8 @@
 
 <img src="https://i.imgur.com/ED5yIEf.png" alt="smag" width="250" align="right" />
 
+##### [Walkthrough](https://medium.com/@jakeruston/tryhackme-smag-grotto-official-walkthrough-d82dbaf2ba74?source=friends_link&sk=1c3b2dea6424fdaf6e9859b7cc68f4f0)
+
 A vulnerable linux machine to practise your penetration testing skills.
 
 ## Setup and Installation
