@@ -1,14 +1,27 @@
-# Smag Grotto
+# Ethical Hacking Content Development
 
-<img src="https://i.imgur.com/ED5yIEf.png" alt="smag" width="250" align="right" />
+A list of all my content development to help with ethical hacking. Includes both challenges (CTFs) and walkthroughs.
 
-##### [Walkthrough](https://medium.com/@jakeruston/tryhackme-smag-grotto-official-walkthrough-d82dbaf2ba74?source=friends_link&sk=1c3b2dea6424fdaf6e9859b7cc68f4f0)
+## Smag Grotto (challenge)
 
-A vulnerable linux machine to practise your penetration testing skills.
+An easy rated challenge, based on an inside joke with my friends.
 
-## Setup and Installation
-- Download the [smaggrotto.ova](https://mega.nz/file/7FQEjKrD#f1_0WMkt9yxbj4ZooPKTs8zetUaNaWjNt1pvLLDdLZc) file and load into the hypervisor of your choice.
-- Ensure your attacker machine is on the same network as the vulnerable one.
+### TryHackMe
+- This challenge will be hosted on [TryHackMe](https://tryhackme.com/), free for all users.
+- You can check out the challenge [here](https://tryhackme.com/room/smaggrotto) (date unconfirmed).
 
-## In the Cloud (Coming July 1st!)
-- This machine is also hosted on [TryHackMe](https://tryhackme.com/) if you are unable to download the file, check out the room [here](https://tryhackme.com/room/smaggrotto).
+## Motunui (challenge)
+
+A medium rated challenge, based on Disney's Moana.
+
+### TryHackMe
+- This challenge will be hosted on [TryHackMe](https://tryhackme.com/), free for all users.
+- You can check out the challenge [here](https://tryhackme.com/room/motunui)  (date unconfirmed).
+
+## Git (walkthrough)
+
+A walkthrough of the most popular version control system in the world.
+
+### TryHackMe
+- This walkthrough will be hosted on [TryHackMe](https://tryhackme.com/), free for all users.
+- You can check out the walkthrough [here](https://tryhackme.com/room/motunui) (under development).
