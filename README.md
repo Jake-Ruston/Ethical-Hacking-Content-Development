@@ -1,6 +1,8 @@
 # Ethical Hacking Content Development
 
-A list of all my content development to help with ethical hacking. Includes both challenges (CTFs) and walkthroughs.
+A list of all my content development to help with ethical hacking.
+
+Includes both challenges (CTFs) and walkthroughs.
 
 ## Smag Grotto (challenge)
 
@@ -24,4 +26,4 @@ A walkthrough of the most popular version control system in the world.
 
 ### TryHackMe
 - This walkthrough will be hosted on [TryHackMe](https://tryhackme.com/), free for all users.
-- You can check out the walkthrough [here](https://tryhackme.com/room/motunui) (under development).
+- You can check out the walkthrough [here](https://tryhackme.com/room/git) (under development).
