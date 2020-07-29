@@ -4,13 +4,13 @@ A list of all my content development to help with ethical hacking.
 
 Includes both challenges (CTFs) and walkthroughs.
 
-## [Redacted] (challenge)
+## [Smag Grotto] (challenge)
 
 An easy rated challenge, based on an inside joke with my friends.
 
 ### TryHackMe
 - This challenge will be hosted on [TryHackMe](https://tryhackme.com/), free for all users.
-<!-- - You can check out the challenge [here](https://tryhackme.com/room/smaggrotto) (date unconfirmed). -->
+- You can check out the challenge [here](https://tryhackme.com/room/smaggrotto) (released 29/07/20).
 
 ## [Redacted] (challenge)
 
