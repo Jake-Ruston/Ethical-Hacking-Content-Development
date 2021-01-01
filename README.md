@@ -1,29 +1,15 @@
 # Ethical Hacking Content Development
 
-A list of all my content development to help with ethical hacking.
+[TryHackMe](https://tryhackme.com) is a security education platform focused on the practical element of Cyber Security, including both red-team and blue-team, challenges and walkthroughs.
 
-Includes both challenges (CTFs) and walkthroughs.
+### Smag Grotto (challenge)
+An easy rated challenge, focusing on lots of the basic skills needed for penetration testers.
+###### [Challenge](https://tryhackme.com/room/smaggrotto) | [Writeup](https://www.jake-ruston.com/posts/tryhackme-smag-grotto.php)
 
-## [Smag Grotto] (challenge)
+### Motunui (challenge)
+A hard rated challenge, designed to teach network penetration testers.
+###### [Challenge](https://tryhackme.com/room/motunui) | [Writeup](https://www.jake-ruston.com/posts/tryhackme-motunui.php)
 
-An easy rated challenge, based on an inside joke with my friends.
-
-### TryHackMe
-- This challenge will be hosted on [TryHackMe](https://tryhackme.com/), free for all users.
-- You can check out the challenge [here](https://tryhackme.com/room/smaggrotto) (released 29/07/20).
-
-## [Redacted] (challenge)
-
-A medium rated challenge, based on Disney's Moana.
-
-### TryHackMe
-- This challenge will be hosted on [TryHackMe](https://tryhackme.com/), free for all users.
-<!-- - You can check out the challenge [here](https://tryhackme.com/room/motunui)  (date unconfirmed). -->
-
-## Git (walkthrough)
-
-A walkthrough of the most popular version control system in the world.
-
-### TryHackMe
-- This walkthrough will be hosted on [TryHackMe](https://tryhackme.com/), free for all users.
-- You can check out the walkthrough [here](https://tryhackme.com/room/git) (under development).
+### Misguided Ghosts (challenge)
+A hard rated challenge, designed to test all areas of penetration testers.
+###### [Challenge](https://tryhackme.com/room/misguidedghosts)
